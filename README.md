@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently working on **MERN Stack Projects**  
 - 👯 I’m looking to collaborate on **Full Stack Projects**  
-- 💻 Check out my portfolio: [portfolio-ajayshekhawat1803](https://portfolio-ajayshekhawat1803.vercel.app/)  
-- 📫 How to reach me: **ajayshekhawat1803@gmail.com**
+- 💻 My Portfolio: [https://portfolio-ajayshekhawat1803.vercel.app/](https://portfolio-ajayshekhawat1803.vercel.app/)  
+- 📫 How to reach me **ajayshekhawat1803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
