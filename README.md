@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Shekhawat</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="display: block; margin: 0 auto;" />
-
+<p style="text-align: center;">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayshekhawat1803" alt="ajayshekhawat1803" /></a> </p>
 
